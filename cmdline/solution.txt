@@ -1,0 +1,15 @@
+byte0: you_just_mastered_changing_directories
+byte1: in_every_job_that_must_be_done_there_is_an_element_of_fun
+byte2: grep_and_you_will_find
+byte3: programmers (,it was players previously)
+byte4: the_triwizard_cup_is_now_yours
+byte5: sdi2500025_1760912892_2108371228_31_217_161_191_64732_22
+byte6: unzipping_is_a_piece_of_cake
+byte7: tar_jokes_cant_stick
+byte8: cant_keep_secrets_from_you
+byte9: filepaths_are_handy
+byte10: Althea
+byte11: Peta
+byte12: which_command_is_the_best
+byte13: descriptive_git_commit_messages_are_great
+byte14: copy_paste_the_fastest_way_to_introduce_bugs_you_dont_understand
